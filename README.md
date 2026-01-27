@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Shaheen 👋
 
-<!--
-**shaheengoradawala-hue/shaheengoradawala-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Lead & Senior Automation Test Engineer  
+🧪 Passionate about quality, test strategy, and scalable automation  
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- Automation: Selenium, JMeter, Playright
+- API Testing: Postman, Rest Assured
+- Languages: Java / JavaScript / Python
+- CI/CD: GitHub Actions, Jenkins
+- Frameworks: Cucumber, BDD, PYTEST
+- Agile / Scrum / Test Strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Experience Highlights
+- Led offshore QA teams (4+ members)
+- Built automation frameworks from scratch
+- Defined test strategies for enterprise applications
+- Worked closely with Dev, Product, and DevOps teams
+
+### 📌 Featured Projects
+⬇️ Check my repositories below 👇
+
+### 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/shaheen-goradawala-3801329/
