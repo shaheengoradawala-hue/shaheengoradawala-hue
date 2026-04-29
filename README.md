@@ -1,24 +1,50 @@
-## Hi, I'm Shaheen 👋
+Hi, I'm Shaheen 👋
 
-🎯 QA Lead & Senior Automation Test Engineer  
-🧪 Passionate about quality, test strategy, and scalable automation  
+🎯 AI Test Automation Engineer | QA Lead | SDET (16+ Years)
+🤖 Building intelligent, scalable, and AI-driven testing solutions
+🧪 Passionate about blending test automation + GenAI + data-driven quality engineering
 
-### 🔧 Skills & Tools
-- Automation: Selenium, JMeter, Playright
-- API Testing: Postman, Rest Assured
-- Languages: Java / JavaScript / Python
-- CI/CD: GitHub Actions, Jenkins
-- Frameworks: Cucumber, BDD, PYTEST
-- Agile / Scrum / Test Strategy
+🔧 Skills & Tools
 
-### 🏆 Experience Highlights
-- Led offshore QA teams (4+ members)
-- Built automation frameworks from scratch
-- Defined test strategies for enterprise applications
-- Worked closely with Dev, Product, and DevOps teams
+AI & GenAI in Testing
 
-### 📌 Featured Projects
-⬇️ Check my repositories below 👇
+Prompt Engineering, AI-assisted test design, intelligent test generation
+LLM integrations (e.g., Claude, OpenAI APIs), RAG-based validation approaches
+AI copilots for test case creation, debugging, and productivity
 
-### 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/shaheen-goradawala-3801329/
+Automation & Testing
+
+UI: Selenium, Playwright
+API: Postman, Rest Assured
+Performance: JMeter
+Frameworks: PyTest, Cucumber (BDD), Data-driven & Hybrid frameworks
+
+Programming
+
+Python | Java | JavaScript
+
+DevOps & CI/CD
+
+GitHub Actions, Jenkins, Azure DevOps
+Continuous Testing in CI/CD pipelines
+
+Data & Validation
+
+SQL, backend validation, large dataset testing
+Image comparison & validation (OpenCV-based)
+🏆 Experience Highlights
+💡 Led AI-enabled QA strategy for enterprise platforms, integrating automation with intelligent validation
+🤝 Managed and mentored SDET teams (onshore/offshore) delivering high-quality releases
+⚙️ Built scalable automation frameworks from scratch (UI + API + data validation)
+🚀 Applied GenAI tools to accelerate test design, debugging, and coverage
+🔍 Strong experience in testing complex, data-intensive systems (including geoscience / enterprise platforms)
+🔄 Partnered closely with Dev, Product, and DevOps for shift-left and continuous testing
+📌 Featured Projects
+🤖 AI-powered test automation experiments (LLM + Selenium + API testing)
+🧪 Data-driven automation frameworks
+🔍 Intelligent validation (image comparison, backend validation, etc.)
+
+⬇️ Explore my work below 👇
+
+🔗 Connect with Me
+LinkedIn: https://www.linkedin.com/in/shaheen-goradawala-3801329/
