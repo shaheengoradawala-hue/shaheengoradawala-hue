@@ -32,17 +32,20 @@ Data & Validation
 
 SQL, backend validation, large dataset testing
 Image comparison & validation (OpenCV-based)
-🏆 Experience Highlights
-💡 Led AI-enabled QA strategy for enterprise platforms, integrating automation with intelligent validation
-🤝 Managed and mentored SDET teams (onshore/offshore) delivering high-quality releases
-⚙️ Built scalable automation frameworks from scratch (UI + API + data validation)
-🚀 Applied GenAI tools to accelerate test design, debugging, and coverage
-🔍 Strong experience in testing complex, data-intensive systems (including geoscience / enterprise platforms)
-🔄 Partnered closely with Dev, Product, and DevOps for shift-left and continuous testing
-📌 Featured Projects
-🤖 AI-powered test automation experiments (LLM + Selenium + API testing)
-🧪 Data-driven automation frameworks
-🔍 Intelligent validation (image comparison, backend validation, etc.)
+
+
+Experience Highlights
+
+•	Led AI-enabled QA strategy for enterprise platforms, integrating automation with intelligent validation
+•	Managed and mentored SDET teams (onshore/offshore) delivering high-quality releases
+•	Built scalable automation frameworks from scratch (UI + API + data validation)
+•	Applied GenAI tools to accelerate test design, debugging, and coverage
+•	Strong experience in testing complex, data-intensive systems (including geoscience / enterprise platforms)
+•	Partnered closely with Dev, Product, and DevOps for shift-left and continuous testing
+•	Featured Projects
+•	AI-powered test automation experiments (LLM + Selenium + API testing)
+•	Data-driven automation frameworks
+•	Intelligent validation (image comparison, backend validation, etc.)
 
 ⬇️ Explore my work below 👇
 
